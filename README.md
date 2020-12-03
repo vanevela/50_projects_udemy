@@ -6,3 +6,4 @@
 - Progress Steps [Live Demo](https://codepen.io/vanegoma/full/JjRYZOd)
 - Rotating Navigation [Live Demo](https://codepen.io/vanegoma/full/rNMOPbB)
 - Hidden Search [Live Demo](https://codepen.io/vanegoma/full/VwKeeKV)
+- Blurry Loading [Live Demo](https://codepen.io/vanegoma/full/bGwEejy)
