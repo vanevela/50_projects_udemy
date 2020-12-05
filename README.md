@@ -10,3 +10,4 @@
 - Scroll Animation [Live Demo](https://codepen.io/vanegoma/full/NWRxgNE)
 - Split Landing Page [Live Demo](https://codepen.io/vanegoma/full/YzGwmrd)
 - Form input wave [Live Demo](https://codepen.io/vanegoma/full/QWKNdvJ)
+- Sound Board [Live Demo](https://codepen.io/vanegoma/full/BaLKdOa)
