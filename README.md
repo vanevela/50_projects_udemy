@@ -11,3 +11,4 @@
 - Split Landing Page [Live Demo](https://codepen.io/vanegoma/full/YzGwmrd)
 - Form input wave [Live Demo](https://codepen.io/vanegoma/full/QWKNdvJ)
 - Sound Board [Live Demo](https://codepen.io/vanegoma/full/BaLKdOa)
+- Jokes [Live Demo](https://codepen.io/vanegoma/full/KKgMmeX)
