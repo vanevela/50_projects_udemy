@@ -14,3 +14,4 @@
 - Jokes [Live Demo](https://codepen.io/vanegoma/full/KKgMmeX)
 - Event keyCode [Live Demo](https://codepen.io/vanegoma/full/MWjedqr)
 - FAQ Collapse [Live Demo](https://codepen.io/vanegoma/full/abmmzRw)
+- Random Choice Picker [Live Demo](https://codepen.io/vanegoma/full/wvzzxWJ)
