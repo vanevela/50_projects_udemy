@@ -16,3 +16,4 @@
 - FAQ Collapse [Live Demo](https://codepen.io/vanegoma/full/abmmzRw)
 - Random Choice Picker [Live Demo](https://codepen.io/vanegoma/full/wvzzxWJ)
 - Animated Navigation [Live Demo](https://codepen.io/vanegoma/full/abmBvoa)
+- Incrementing Counter [Live Demo](https://codepen.io/vanegoma/full/xxERVRP)
