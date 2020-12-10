@@ -15,3 +15,4 @@
 - Event keyCode [Live Demo](https://codepen.io/vanegoma/full/MWjedqr)
 - FAQ Collapse [Live Demo](https://codepen.io/vanegoma/full/abmmzRw)
 - Random Choice Picker [Live Demo](https://codepen.io/vanegoma/full/wvzzxWJ)
+- Animated Navigation [Live Demo](https://codepen.io/vanegoma/full/abmBvoa)
