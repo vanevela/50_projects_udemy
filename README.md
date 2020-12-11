@@ -17,3 +17,5 @@
 - Random Choice Picker [Live Demo](https://codepen.io/vanegoma/full/wvzzxWJ)
 - Animated Navigation [Live Demo](https://codepen.io/vanegoma/full/abmBvoa)
 - Incrementing Counter [Live Demo](https://codepen.io/vanegoma/full/xxERVRP)
+- Drink Water [Live Demo](https://codepen.io/vanegoma/full/WNGomex)
+- Wave Animation [Live Demo](https://codepen.io/vanegoma/full/MWjbxwE)
